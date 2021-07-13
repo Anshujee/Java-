@@ -2,7 +2,7 @@ class Rbi
 {
 	void rateofintrest()
 	{
-		System.out.println("Rate of Intrest is 15% on Personal Loan");
+		System.out.println("Rate of Intrest is 12% on Personal Loan");
 	}
 }
 class Hdfc_bank extends Rbi
