@@ -1,4 +1,3 @@
-//Hierarchical_inharitance
 class Vehicle
 {
 	String brand= "BMW";
