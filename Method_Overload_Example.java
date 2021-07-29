@@ -13,6 +13,6 @@ class  Method_Overload_Example
 		System.out.println("Hello World!");
 		multi(5,5);
 		multi(5.5f,6.5f);
-		System.out.println("Hello Madaharchood");
+		System.out.println("Hello");
 	}
 }
